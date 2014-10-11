@@ -64,7 +64,8 @@ module FbGraph
       :user_support_url,
       :website_url,
       :type,
-      :secret
+      :secret,
+      :roles
     ]
     attr_accessor *@@attributes
 
